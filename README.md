@@ -1,0 +1,1 @@
+# ponderada-j-sem10
