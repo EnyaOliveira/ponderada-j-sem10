@@ -39,12 +39,7 @@ A atividade propõe:
 ---
 
 ## Estrutura do Projeto
-
----
-
-. ├── spam_detection_lstm_glove.ipynb # Notebook completo da atividade ├── README.md # Este arquivo ├── glove.6B.200d.txt # Arquivo de vetores GloVe (coloque em /content no Colab) └── spam.csv # Dataset do Kaggle (SMS Spam Collection)
-
----
+``` ├── spam_detection_lstm_glove.ipynb ├── README.md ├── glove.6B.200d.txt └── spam.csv ``` 
 
 ## Como Executar
 
