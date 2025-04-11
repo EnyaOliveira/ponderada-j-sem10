@@ -39,7 +39,12 @@ A atividade propõe:
 ---
 
 ## Estrutura do Projeto
-``` ├── spam_detection_lstm_glove.ipynb ├── README.md ├── glove.6B.200d.txt └── spam.csv ``` 
+```
+├── spam_detection_lstm_glove.ipynb 
+├── README.md
+├── glove.6B.200d.txt
+└── spam.csv
+``` 
 
 ## Como Executar
 
