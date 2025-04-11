@@ -38,14 +38,6 @@ A atividade propõe:
 
 ---
 
-## Estrutura do Projeto
-```
-├── spam_detection_lstm_glove.ipynb 
-├── README.md
-├── glove.6B.200d.txt
-└── spam.csv
-``` 
-
 ## Como Executar
 
 1. Baixe o dataset: [SMS Spam Collection - Kaggle]([https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download))
